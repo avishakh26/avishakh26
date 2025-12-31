@@ -7,7 +7,7 @@
 I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.
 </h3>
 
-<img align="right" alt="Coding" width="200"
+<img align="right" alt="Coding" width="270"
 src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 
 <p align="left">
