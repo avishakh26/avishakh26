@@ -3,7 +3,7 @@
   <img 
     src="https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif" 
     alt="MasterHead"
-    width="100%"
+    width="70%"
   />
 </p>
 
@@ -16,7 +16,7 @@
 <img 
   align="right" 
   alt="Coding" 
-  width="380" 
+  width="270" 
   src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
 />
 
@@ -25,8 +25,7 @@
 - 📖 I write code that **(hopefully) solves problems**  
 - 🤝 Looking for help with **Cyber Security**  
 - 👨‍💻 Projects: [https://avishakh.github.io/avishakh.portfolio/](https://avishakh.github.io/avishakh.portfolio/)  
-- 📫 Reach me at **studiouspook@gmail.com**  
-- 📄 Experiences: [Google Drive](https://drive.google.com/drive/folders/1j0VBelOmVPNp0JJg7olZIUrXUqdt4BW2)
+- 📫 Reach me at **studiouspook@gmail.com** 
 
 <br clear="right"/>
 
