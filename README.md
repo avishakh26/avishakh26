@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif" width="100%" />
+  <img src="https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif" width="70%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
@@ -7,7 +7,7 @@
 I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.
 </h3>
 
-<img align="right" alt="Coding" width="380"
+<img align="right" alt="Coding" width="200"
 src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 
 <p align="left">
