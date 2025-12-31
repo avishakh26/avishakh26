@@ -7,19 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishakh26&label=Profile%20views&color=0e75b6&style=flat" alt="avishakh26" /> </p>
 
-- 👨‍🎓Student of [Computer Science](@ Stamford University)
+- 👨‍🎓Student of Computer Science @Stamford University
 
-- 🌱 I’m currently learning **FASTAPI**
+- 🌱 I’m currently learning FASTAPI
 
-- 📖I write code that **(hopefully) solves problems**
+- 📖I write code that (hopefully) solves problems
 
-- 🤝 I’m looking for help with **Cyber Security**
+- 🤝 I’m looking for help with Cyber Security
 
 - 👨‍💻 All of my projects are available at [https://avishakh.github.io/avishakh.portfolio/](https://avishakh.github.io/avishakh.portfolio/)
 
 - 📫 How to reach me **studiouspook@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1j0VBelOmVPNp0JJg7olZIUrXUqdt4BW2](https://drive.google.com/drive/folders/1j0VBelOmVPNp0JJg7olZIUrXUqdt4BW2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
