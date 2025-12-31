@@ -16,7 +16,7 @@
 <img 
   align="right" 
   alt="Coding" 
-  width="200" 
+  width="180" 
   src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
 />
 
