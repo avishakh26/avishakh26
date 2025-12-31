@@ -23,8 +23,6 @@ src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
 - 👨‍💻 Portfolio:  
   👉 https://avishakh.github.io/avishakh.portfolio/  
 - 📫 Email: **studiouspook@gmail.com**  
-- 📄 Experiences:  
-  👉 https://drive.google.com/drive/folders/1j0VBelOmVPNp0JJg7olZIUrXUqdt4BW2  
 
 <br clear="both" />
 
