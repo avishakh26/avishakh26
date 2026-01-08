@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Avishakh Chakrabortty</h1>
+<h1 align="center">Hi, I'm Avishakh Chakrabortty</h1>
 <h3 align="center">
   I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.
 </h3>
