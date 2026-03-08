@@ -1,11 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img 
-    src="https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif" 
-    alt="MasterHead"
-    width="70%"
-  />
-</p>
+
 
 <h1 align="center">Hi, I'm Avishakh Chakrabortty</h1>
 <h3 align="center">
