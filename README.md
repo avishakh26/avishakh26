@@ -24,7 +24,7 @@
 - 🌱 Currently learning **FastAPI**  
 - 📖 I write code that **(hopefully) solves problems**  
 - 🤝 Looking for help with **Cyber Security**  
-- 👨‍💻 Projects: [https://avishakh.github.io/avishakh.portfolio/](https://avishakh.github.io/avishakh.portfolio/)  
+- 👨‍💻 Projects: [https://avishakh.github.io/avishakh.portfolio/](avishakh.netlify.app)  
 - 📫 Reach me at **studiouspook@gmail.com** 
 
 <br clear="right"/>
