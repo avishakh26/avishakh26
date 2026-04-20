@@ -10,6 +10,6 @@ I’m a Computer Science student at Stamford University, turning ideas into code
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Avishakh Chakrabortty&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
