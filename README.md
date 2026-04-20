@@ -34,19 +34,19 @@
 <p align="left">
   <a href="https://linkedin.com/in/avishakhchakrabortty" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
+  
   <a href="https://fb.com/avishakhchakrabortty" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
+ 
   <a href="https://instagram.com/avishakh._.chakrabortty" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
+  
   <a href="https://www.youtube.com/@avishakhcharkabortty4094" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
+ 
   <a href="https://codeforces.com/profile/avishakh22" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
