@@ -1,15 +1,66 @@
-# 💫 About Me:
-I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.<br>Student of Computer Science @ Stamford University<br>Currently learning FastAPI<br>I write code that (hopefully) solves problems<br>Looking for help with Cyber Security<br>
 
+<!-- Banner -->
+<!-- <p align="center">
+  <img 
+    src="https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif" 
+    alt="MasterHead"
+    width="70%"
+  />
+</p> -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/avishakh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/avishakh.chakrabortty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/avishakh._.chakrabortty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avishakh/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@avishakhchakrabortty4094) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:studiouspook@gmail.com) 
+<h1 align="center">Hi, I'm Avishakh Chakrabortty</h1>
+<h3 align="center">
+  I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.
+</h3>
 
+<!-- Side Image -->
+<img 
+  align="right" 
+  alt="Coding" 
+  width="180" 
+  src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"
+/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+- 👨‍🎓 Student of **Computer Science** @ Stamford University  
+- 🌱 Currently learning **FastAPI**  
+- 📖 I write code that **(hopefully) solves problems**  
+- 🤝 Looking for help with **Cyber Security**  
+- 👨‍💻 Portfolio: [https://avishakh.netlify.app](https://avishakh.netlify.app)  
+- 📫 Reach me at **studiouspook@gmail.com** 
 
----
+<br clear="right"/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/avishakhchakrabortty" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://fb.com/avishakhchakrabortty" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/avishakh._.chakrabortty" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@avishakhcharkabortty4094" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/avishakh22" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
