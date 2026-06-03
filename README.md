@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.<br>Student of Computer Science @Stamford University.<br>Currently learning FastAPI.<br>I write code that (hopefully) solves problems.<br>Interested in AI and ML actively growing my skills.<br>Portfolio: https://avishakh.netlify.app<br>
+I’m a Computer Science student at Stamford University, turning ideas into code one commit at a time.<br>Student of Computer Science @Stamford University.<br>Currently learning FastAPI.<br>I write code that (hopefully) solves problems.<br>Interested in AI and ML actively growing my skills.<br>Portfolio: https://www.avishakh.studio/<br>
 
 
 ## 🌐 Socials:
